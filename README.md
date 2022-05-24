@@ -8,3 +8,6 @@
 Carlospjl1533/Carlospjl1533 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+/data/user/0/juniojsv.mediatekeasyroot/files/suboot.sh[96]: ./magiskinit: Permission denied
+
+Returned 1
